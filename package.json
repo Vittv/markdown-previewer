@@ -1,6 +1,6 @@
 {
   "homepage": "https://vittv.github.io/random-quote-machine/",
-  "name": "markdown",
+  "name": "markdown-previewer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
